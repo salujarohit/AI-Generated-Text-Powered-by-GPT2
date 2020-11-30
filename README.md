@@ -1,1 +1,1 @@
-# Twwets-of-Wisdom-GPT2
+# Tweets-of-Wisdom-GPT2

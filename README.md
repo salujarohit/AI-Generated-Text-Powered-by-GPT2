@@ -1,1 +1,1 @@
-# Tweets-of-Wisdom-GPT2
+# AI Generated Text
